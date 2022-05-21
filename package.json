@@ -1,0 +1,15 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "for scraping data from imdb ",
+  "main": "pushToDB.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dominykas Bubnys",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "puppeteer": "^13.3.2"
+  }
+}
